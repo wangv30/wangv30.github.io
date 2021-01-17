@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "Vincent Wang",
         "url": "http://linkedin.com/in/"
-      },
+      }
     ]
   },
   "interests": [
@@ -143,5 +143,5 @@
       "awarder": "UHM",
       "summary": "Scholarship awarded to incoming freshmen who complete high school with a minimum overall GPA of 3.5."
     }
-  ],
+  ]
 }
