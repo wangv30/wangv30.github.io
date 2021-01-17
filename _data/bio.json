@@ -51,26 +51,18 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Language",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Mandarin Chinese"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Toolsets",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Microsoft Office",
+        "Google Workspace"
       ]
     }
   ],
@@ -152,10 +144,4 @@
       "summary": "Scholarship awarded to incoming freshmen who complete high school with a minimum overall GPA of 3.5."
     }
   ],
-  "references": [
-    {
-      "name": "",
-      "reference": ""
-    }
-  ]
 }
