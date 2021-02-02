@@ -1,0 +1,19 @@
+---
+layout: essay
+type: essay
+title: UI Basics Technical Essay
+# All dates must be YYYY-MM-DD format!
+date: 2021-02-01
+labels:
+  - WODs
+---
+
+Browser History 1 was a bit of a challenge, but I feel like I was able to understand a lot of what I was supposed to do through the readings. By looking through and reading the
+different sections of the "HTML5 Beginner Tutorial" I was able to figure out how to do some of the simpler parts of the WOD like inserting the logos into the file. There were
+definitely parts of the WOD where I got stuck due to not knowing how to do certain steps to a part. So for example, inserting links to external webpages onto a word. I knew how to 
+insert a link through the "a href" tag, but I would get stuck on the small step of attaching that link to the word in the paragraph. For these kinds of obstacles were where I would stop
+and open up the screencast to find out how exactly I was supposed to do the step. I definitely feel like this method of learning is useful and works as it involves me trying it out on
+my own first, seeing the solution when I have trouble, and then trying it out again from scratch. This WOD was pretty fustrating, but I feel like I learned a lot and am more familiar
+with the usage of HTML.
+
+Browser History 2 was a lot easier than Browser History 1. 
