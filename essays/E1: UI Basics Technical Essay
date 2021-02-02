@@ -1,0 +1,27 @@
+---
+layout: essay
+type: essay
+title: UI Basics Technical Essay
+# All dates must be YYYY-MM-DD format!
+date: 2021-02-01
+labels:
+  - WODs
+---
+
+Browser History 1 was a bit of a challenge, but I feel like I was able to understand a lot of what I was supposed to do through the readings. By looking through and reading the
+different sections of the "HTML5 Beginner Tutorial" I was able to figure out how to do some of the simpler parts of the WOD like inserting the logos into the file. There were
+definitely parts of the WOD where I got stuck due to not knowing how to do certain steps to a part. So for example, inserting links to external webpages onto a word. I knew how to 
+insert a link through the "a href" tag, but I would get stuck on the small step of attaching that link to the word in the paragraph. For these kinds of obstacles were where I would stop
+and open up the screencast to find out how exactly I was supposed to do the step. I definitely feel like this method of learning is useful and works as it involves me trying it out on
+my own first, seeing the solution when I have trouble, and then trying it out again from scratch. This WOD was pretty frustrating, but I feel like I learned a lot and am more familiar
+with the usage of HTML.
+
+Browser History 2 was a lot easier than Browser History 1. With this one, I just had to go back to the CSS tutorial to find some of the code needed to style my file. This WOD was
+pretty simple as you kind of just needed an understanding of CSS and how to link the CSS file to your HTML file. I think the one thing that I had a little trouble with was getting the
+font to work. I made the mistake of quickly skimming through the googlefonts guide and missed the part where it said you had to insert a href tag to the google font file containing
+the "Oswald" and Open Sans" fonts. After referring to the screencast though, I realized my mistake and was able to finish the WOD without too much problem.
+
+Browser History 3 had me stumped a bit. I didn't really know where to start for a lot of the steps like making the different sections and formatting the table of contents. Seeing
+as how I was kind of confused on how to do a lot of the stuff, I decided to do a different method of learning. I decided to watch the entire screencast and follow along with it while
+trying to understand the reasoning behind each step. Then I deleted the files and did it on my own after waiting a while so as not to just do everything by memory, with this I was able to 
+do it on my own without much problem.
